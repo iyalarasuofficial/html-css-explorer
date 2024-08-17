@@ -1,0 +1,106 @@
+/* section {
+    width: 100%;
+    
+
+} */
+.nav-bar{
+    width: 100%;
+    text-align: end;
+}
+.nav-bar-list{
+    display: inline-block;
+    margin-right: 30px;
+}
+.nav-bar-left{
+    float: left;
+    margin: auto;
+    margin-left:30px;
+
+}
+
+.explore-sec{
+   display: flex;
+   gap: 100px;
+
+}
+.image-explore{
+    width: 750px;
+    height: 600px;
+}
+.about-explore{
+    padding-left: 100px;
+    font-size: 30px;
+    margin-top: 80px;
+
+}
+.about-explore p{
+    font-size: 50px;
+}
+ .about-explore select{
+    padding: 10px 150px;
+ }
+
+.about-explore button{
+    padding: 8px 50px;
+    margin-top: 10px;
+
+}
+.card-section img{
+    width: 350px;
+    height: 300px;
+}
+.card-container-1{
+    display: flex;
+    flex-wrap: wrap;
+    margin:0 10px;
+    justify-content: space-between;
+   
+}
+.card-info{
+    width:360px;
+    margin:25px 0;
+}
+.card-section{
+    margin: 0 90px
+}
+.card-info button{
+    margin-top: 10px;
+    padding: 8px 20px;
+}
+
+.contact-section .contact-input{
+    width: 250px;
+    padding: 6px;
+    margin-bottom: 15px;
+}
+.contact-section input{
+    width: 240px !important;
+}
+.contact-section{
+    display: flex;
+    flex-direction: column;
+   align-items: center;
+   background-color: #ffc5ff;
+   padding: 50px;
+}
+.contact-submit{
+    padding: 6px 30px;
+}
+button{
+    background-color: #800080;
+    color: white;
+}
+.col-voilet{
+    color:  #7a1755;
+}
+
+.font-style{
+    font-family: 'Edu VIC WA NT Beginner', sans-serif;
+    font-style: italic;
+    color:  #7a1755;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    letter-spacing: 1px;
+}
+label{
+    font-weight: 600;
+}
